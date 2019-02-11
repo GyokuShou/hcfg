@@ -36,10 +36,8 @@ a:active {color:#0000FF;} /* 已选中的链接 */
 .line{
 	border: none;
 	background-color: red;
-	left: auto;
 	height: 5px;
 	width: 70%;
-	margin: 10px 0;
 }
 
 .desc{
